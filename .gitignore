@@ -1,0 +1,18 @@
+# Node (frontend)
+node_modules/
+frontend/node_modules/
+
+# Laravel / PHP backend
+backend/vendor/
+vendor/
+
+backend/storage/*.log
+backend/storage/framework/
+backend/bootstrap/cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env fajlovi (bitno)
+.env
