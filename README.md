@@ -46,7 +46,7 @@ Da bi aplikacija mogla da se pokrene potrebno je instalirati:
 1. Kloniranje reprozitorijuma
 U terminalu pokrenuti: 
             
-            git clone [<URL_REPOZITORIJUMA>](https://github.com/elab-development/internet-tehnologije-2025-vebservisieuprave_2022_0031.git)
+            git clone [<URL_REPOZITORIJUMA>](https://github.com/vanjazivanovic/moja-eUprava.git)
             cd <NAZIV_PROJEKTA>
             
 2. Pokretanje aplikacije preko Dockera
@@ -168,3 +168,6 @@ Swagger API dokumentacija:
 
 https://internet-tehnologije-2025-vebservisieuprave2022-production.up.railway.app/api/documentation
 
+## Timski projekat
+
+Ova aplikacija je razvijena kao deo timskog projekta u okviru predmeta Internet tehnologije na Fakultetu organizacionih nauka.
